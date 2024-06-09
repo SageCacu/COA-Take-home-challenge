@@ -1,4 +1,4 @@
-# Coding Challenges
+# Coding Challenges By Sage Byiringiro
 
 ## Overview
 
@@ -12,7 +12,7 @@ Determines if there exists a contiguous subarray within the array that sums up t
 ### 2. String Transformation (`stringTransform.js`)
 to transform a given string based on specific rules.
 
-## how to run these two challanges
+## how to run these two challenges
 
 * first you need a coding editor for me I used Visual studio code
 * 2nd you need to have node.js installed in your pc 
